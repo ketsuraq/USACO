@@ -1,5 +1,4 @@
 /*
-ID: rusijos1
 PROG: friday
 LANG: C++14
 */

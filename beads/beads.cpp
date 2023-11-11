@@ -1,5 +1,4 @@
 /*
-ID: rusijos1
 PROG: beads
 LANG: C++14
 */

@@ -1,5 +1,4 @@
 /*
-ID: rusijos1
 PROG: gift1
 LANG: C++14
 */
@@ -11,7 +10,6 @@ int main()
 {
     ifstream fin("gift1.in");
 	ofstream fout("gift1.out");
-    cout << "miau";
 
     int NP;
     fin >> NP;
